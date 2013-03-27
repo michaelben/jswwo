@@ -7,7 +7,7 @@ How to run
 1. Upload index.html to your local webserver, and point your browser to http://localhost/index.html.
 2. Or chdir to jswwo folder, and type 'node app' provided you have node installed on your machine.
 
-You should see result as [this screenshot](https://github.com/michaelben/jswwo/image/screenshot.png).
+You should see result as [this screenshot](https://github.com/michaelben/jswwo/blob/master/image/screenshot.png).
 
 Feature
 -------
