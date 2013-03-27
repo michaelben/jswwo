@@ -11,5 +11,6 @@ You should see result as [this screenshot](https://github.com/michaelben/jswwo/b
 
 Feature
 -------
+0. Templating using Underscore
 1. Form validation for UK/US/Canada postal code, IP address and Lat/Long
 2. Error checking from API call
