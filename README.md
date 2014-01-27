@@ -14,3 +14,11 @@ Feature
 0. Templating using Underscore
 1. Form validation for UK/US/Canada postal code, IP address and Lat/Long
 2. Error checking from API call
+
+See also
+--------
+1. [NodeJS client for WWO API](https://github.com/michaelben/nodejswwo)
+2. [Javascript client for WWO API](https://github.com/michaelben/jswwo)
+3. [Java client for WWO API](https://github.com/michaelben/JavaWWO)
+4. [Android client for WWO API](https://github.com/michaelben/AndroidWWO)
+5. [Python client for WWO API](https://github.com/michaelben/pywwo)
